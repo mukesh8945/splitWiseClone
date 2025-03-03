@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "splitwise.otp.scheduler.inactivate.time.hour",
+    "type": "java.lang.String",
+    "description": "A description for 'splitwise.otp.scheduler.inactivate.time.hour'"
+  },
+  {
+    "name": "splitwise.otp.scheduler.delete.time.hour",
+    "type": "java.lang.String",
+    "description": "A description for 'splitwise.otp.scheduler.delete.time.hour'"
+  },
+  {
+    "name": "splitwise.audit.scheduler.persist.time.hour",
+    "type": "java.lang.String",
+    "description": "A description for 'splitwise.audit.scheduler.persist.time.hour'"
+  },
+  {
+    "name": "log.level",
+    "type": "java.lang.String",
+    "description": "A description for 'log.level'"
+  },
+  {
+    "name": "splitwise.concurrent.thread",
+    "type": "java.lang.String",
+    "description": "A description for 'splitwise.concurrent.thread'"
+  }
+]}
